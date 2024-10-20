@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\main\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:main\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\extensions\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:extensions\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\configurations\\modelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\configurations\\modelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\entities\\carannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\entities\\carannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\configurations\\announcementsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\configurations\\announcementsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\models\\configurations\\brandentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:models\\configurations\\brandentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|c:\\users\\pc\\onedrive\\desktop\\turbo.azca\\migrations\\20240316095524_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A11D8E-8E7E-4292-B443-41ABEA1117E6}|Turbo.Az.csproj|solutionrelative:migrations\\20240316095524_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageType.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Extensions\\MessageType.cs",
+              "RelativeDocumentMoniker": "Extensions\\MessageType.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Extensions\\MessageType.cs",
+              "RelativeToolTip": "Extensions\\MessageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Main\\MenuOptions.cs",
+              "RelativeDocumentMoniker": "Main\\MenuOptions.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Main\\MenuOptions.cs",
+              "RelativeToolTip": "Main\\MenuOptions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\ModelEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Configurations\\ModelEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\ModelEntityConfiguration.cs",
+              "RelativeToolTip": "Models\\Configurations\\ModelEntityConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarAnnouncement.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\CarAnnouncement.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\CarAnnouncement.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\CarAnnouncement.cs",
+              "RelativeToolTip": "Models\\Entities\\CarAnnouncement.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAADEDAAAAAAAAAAAuwNUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Extensions\\Helper.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\Brand.cs",
+              "RelativeToolTip": "Models\\Entities\\Brand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnnouncementsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\AnnouncementsConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Configurations\\AnnouncementsConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\AnnouncementsConfiguration.cs",
+              "RelativeToolTip": "Models\\Configurations\\AnnouncementsConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Entities\\Model.cs",
+              "RelativeToolTip": "Models\\Entities\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\BrandEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\Configurations\\BrandEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Models\\Configurations\\BrandEntityConfiguration.cs",
+              "RelativeToolTip": "Models\\Configurations\\BrandEntityConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240316095524_first.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Migrations\\20240316095524_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240316095524_first.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\Turbo.azCA\\Migrations\\20240316095524_first.cs",
+              "RelativeToolTip": "Migrations\\20240316095524_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:45:06.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
